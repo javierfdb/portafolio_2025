@@ -1,0 +1,24 @@
+section, .section {
+    padding: 40px 0;
+}
+
+#preloader {
+    display: none;
+}
+
+#hero video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+#hero .box-content {
+    padding-left: 2rem;
+}
+
+#hero .box-content p span {
+    border-bottom: 0px;
+}
